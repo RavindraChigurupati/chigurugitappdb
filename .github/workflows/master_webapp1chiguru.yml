@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'WebApp1Chiguru'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A38DD62AD2D748008AA82C7D405FAA58 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_825E362E097A40D79C24B53E38CC9A43 }}
           package: .
